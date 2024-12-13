@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @UlianaPurtova
 - 👀 I’m interested in creating and testing new products
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL, playwright
 - 💞️ I’m looking to collaborate on .... give me your ideas
 - 📫 How to reach me upurtova2@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Start testing because of my husband 
 
 <!---
